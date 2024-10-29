@@ -1,0 +1,160 @@
+Name,HP,Type,Stage,EvolvesFrom,Attacks,Ability,RetreatCost
+
+Snivy,60,Grass,Basic,,"[{'Name': 'Leaf Blade', 'Description': 'Flip a coin. If heads, this attack does 30 more damage.', 'Damage': '10+', 'Energy': {'Grass': 1, 'Colorless': 1}}]",,1
+
+Servine,80,Grass,Stage 1,Snivy,"[{'Name': 'Wrap', 'Description': 'Flip a coin. If heads, the Defending Pok�mon is now Paralyzed.', 'Damage': '20', 'Energy': {'Colorless': 1}}, {'Name': 'Tackle', 'Description': '', 'Damage': '30', 'Energy': {'Grass': 1, 'Colorless': 1}}]",,1
+
+Serperior,130,Grass,Stage 2,Servine,"[{'Name': 'Vine Whip', 'Description': '', 'Damage': '40', 'Energy': {'Colorless': 2}}, {'Name': 'Leaf Storm', 'Description': 'Heal 20 damage from each of your Grass Pok�mon.', 'Damage': '60', 'Energy': {'Grass': 2}}]",,
+
+Simisage,90,Grass,Stage 1,Pansage,"[{'Name': 'Seed Bomb', 'Description': '', 'Damage': '30', 'Energy': {'Grass': 1}}, {'Name': 'Fury Swipes', 'Description': 'Flip 3 coins. This attack does 40 damage times the number of heads.', 'Damage': '40�', 'Energy': {'Colorless': 3}}]",,2
+
+Pansage,60,Grass,Basic,,"[{'Name': 'Scratch', 'Description': '', 'Damage': '10', 'Energy': {'Colorless': 1}}, {'Name': 'Vine Whip', 'Description': '', 'Damage': '30', 'Energy': {'Grass': 1, 'Colorless': 2}}]",,1
+
+Petilil,50,Grass,Basic,,"[{'Name': 'Magical Leaf', 'Description': 'Flip a coin. If heads, this attack does 10 more damage and heal 10 damage from this Pok�mon.', 'Damage': '10+', 'Energy': {'Grass': 1}}]",,1
+
+Lilligant,80,Grass,Stage 1,Petilil,"[{'Name': 'Petal Dance', 'Description': 'Flip 3 coins. This attack does 30 damage times the number of heads. This Pok�mon is now confused.', 'Damage': '30�', 'Energy': {'Grass': 1}}, {'Name': 'Leaf Storm', 'Description': 'Heal 20 damage from each of your Grass Pok�mon.', 'Damage': '30', 'Energy': {'Grass': 1, 'Colorless': 1}}]",,1
+
+Maractus,80,Grass,Basic,,"[{'Name': 'Mega Drain', 'Description': 'Heal 20 damage from this Pok�mon.', 'Damage': '20', 'Energy': {'Grass': 1}}, {'Name': 'Pin Missile', 'Description': 'Flip 4 coins. This attack does 20 damage times the number of heads.', 'Damage': '20�', 'Energy': {'Grass': 2, 'Colorless': 1}}]",,2
+
+Sawsbuck,90,Grass,Stage 1,Deerling,"[{'Name': 'Nature Power', 'Description': ""Does 10 more damage for each Grass Energy attached to both your and your opponent's Pok�mon."", 'Damage': '20+', 'Energy': {'Colorless': 1}}, {'Name': 'Horn Leech', 'Description': 'Heal 20 damage from this Pok�mon.', 'Damage': '60', 'Energy': {'Grass': 1, 'Colorless': 2}}]",,1
+
+Deerling,60,Grass,Basic,,"[{'Name': 'Double Kick', 'Description': 'Flip 2 coins. This attack does 10 damage times the number of heads.', 'Damage': '10�', 'Energy': {'Colorless': 1}}, {'Name': 'Leech Seed', 'Description': 'Heal 10 damage from this Pok�mon.', 'Damage': '20', 'Energy': {'Grass': 1, 'Colorless': 1}}]",,1
+
+Tepig,60,Fire,Basic,,"[{'Name': 'Tackle', 'Description': '', 'Damage': '10', 'Energy': {'Fire': 1}}, {'Name': 'Rollout', 'Description': '', 'Damage': '20', 'Energy': {'Fire': 1, 'Colorless': 1}}]",,1
+
+Emboar,150,Fire,Stage 2,Pignite,"[{'Name': 'Heat Crash', 'Description': '', 'Damage': '50', 'Energy': {'Fire': 1, 'Colorless': 2}}, {'Name': 'Flare Blitz', 'Description': 'Discard all Fire Energy attached to this Pok�mon.', 'Damage': '150', 'Energy': {'Fire': 2, 'Colorless': 2}}]",,4
+
+Tepig,70,Fire,Basic,,"[{'Name': 'Take Down', 'Description': 'This Pok�mon does 10 damage to itself.', 'Damage': '30', 'Energy': {'Fire': 1, 'Colorless': 1}}]",,2
+
+Pignite,100,Fire,Stage 1,Tepig,"[{'Name': 'Flame Charge', 'Description': 'Search your deck for a Fire Energy card and attach it to this Pok�mon. Shuffle your deck afterward.', 'Damage': '', 'Energy': {'Colorless': 1}}, {'Name': 'Heat Crash', 'Description': '', 'Damage': '50', 'Energy': {'Fire': 2, 'Colorless': 1}}]",,3
+
+Pansear,60,Fire,Basic,,"[{'Name': 'Scratch', 'Description': '', 'Damage': '10', 'Energy': {'Colorless': 1}}, {'Name': 'Live Coal', 'Description': '', 'Damage': '30', 'Energy': {'Fire': 1, 'Colorless': 2}}]",,1
+
+Emboar,150,Fire,Stage 2,Pignite,"[{'Name': 'Heat Crash', 'Description': '', 'Damage': '80', 'Energy': {'Fire': 2, 'Colorless': 2}}]","{'Name': 'Inferno Fandango', 'Description': 'As often as you like during your turn (before your attack), you may attach a Fire Energy card from your hand to 1 of your Pok�mon.'}",4
+
+Darumaka,70,Fire,Basic,,"[{'Name': 'Singe', 'Description': 'The Defending Pok�mon is now Burned.', 'Damage': '', 'Energy': {'Fire': 1}}, {'Name': 'Rollout', 'Description': '', 'Damage': '20', 'Energy': {'Colorless': 2}}]",,2
+
+Simisear,90,Fire,Stage 1,Pansear,"[{'Name': 'Flame Burst', 'Description': ""Does 20 damage to 2 of your opponent's Benched Pok�mon. (Don't apply Weakness and Resistance for Benched Pok�mon.)"", 'Damage': '20', 'Energy': {'Fire': 1}}, {'Name': 'Fury Swipes', 'Description': 'Flip 3 coins. This attack does 40 damage times the number of heads.', 'Damage': '40�', 'Energy': {'Colorless': 3}}]",,1
+
+Darumaka,70,Fire,Basic,,"[{'Name': 'Firebreathing', 'Description': 'Flip a coin. If heads, this attack does 10 more damage.', 'Damage': '10+', 'Energy': {'Fire': 1}}]",,2
+
+Darmanitan,120,Fire,Stage 1,Darumaka,"[{'Name': 'Fire Fang', 'Description': 'The Defending Pok�mon is now Burned.', 'Damage': '20', 'Energy': {'Fire': 1, 'Colorless': 1}}, {'Name': 'Thrash', 'Description': 'Flip a coin. If heads, this attack does 20 more damage. If tails, this Pok�mon does 20 damage to itself.', 'Damage': '70+', 'Energy': {'Fire': 1, 'Colorless': 2}}]",,2
+
+Reshiram,130,Fire,Basic,,"[{'Name': 'Outrage', 'Description': 'Does 10 more damage for each damage counter on this Pok�mon.', 'Damage': '20+', 'Energy': {'Colorless': 2}}, {'Name': 'Blue Flare', 'Description': 'Discard 2 Fire Energy attached to this Pok�mon.', 'Damage': '120', 'Energy': {'Fire': 2, 'Colorless': 1}}]",,2
+
+Oshawott,60,Water,Basic,,"[{'Name': 'Tackle', 'Description': '', 'Damage': '10', 'Energy': {'Water': 1}}, {'Name': 'Water Gun', 'Description': '', 'Damage': '20', 'Energy': {'Water': 1, 'Colorless': 1}}]",,1
+
+Samurott,140,Water,Stage 2,Dewott,"[{'Name': 'Pike', 'Description': ""Does 30 damage to 1 of your opponent's Benched Pok�mon. (Don't apply Weakness and Resistance for Benched Pok�mon.)"", 'Damage': '30', 'Energy': {'Colorless': 2}}, {'Name': 'Surf', 'Description': '', 'Damage': '80', 'Energy': {'Water': 2, 'Colorless': 1}}]",,2
+
+Dewott,80,Water,Stage 1,Oshawott,"[{'Name': 'Aqua Tail', 'Description': 'Flip a coin for each Water Energy attached to this Pok�mon. This attack does 10 more damage for each heads.', 'Damage': '30+', 'Energy': {'Colorless': 2}}]",,1
+
+Samurott,140,Water,Stage 2,Dewott,"[{'Name': 'Hydro Pump', 'Description': 'Does 10 more damage for each Water Energy attached to this Pok�mon.', 'Damage': '70+', 'Energy': {'Colorless': 3}}]","{'Name': 'Shell Armor', 'Description': 'Any damage done to this Pok�mon by attacks is reduced by 20 (after applying Weakness and Resistance).'}",2
+
+Basculin,70,Water,Basic,,"[{'Name': 'Crunch', 'Description': 'Flip a coin. If heads, discard an Energy attached to the Defending Pok�mon.', 'Damage': '30', 'Energy': {'Water': 2}}]",,1
+
+Panpour,60,Water,Basic,,"[{'Name': 'Scratch', 'Description': '', 'Damage': '10', 'Energy': {'Colorless': 1}}, {'Name': 'Water Gun', 'Description': '', 'Damage': '30', 'Energy': {'Water': 1, 'Colorless': 2}}]",,1
+
+Simipour,90,Water,Stage 1,Panpour,"[{'Name': 'Scald', 'Description': 'The Defending Pok�mon is now Burned.', 'Damage': '20', 'Energy': {'Water': 1}}, {'Name': 'Fury Swipes', 'Description': 'Flip 3 coins. This attack does 40 damage times the number of heads.', 'Damage': '40�', 'Energy': {'Colorless': 3}}]",,1
+
+Swanna,90,Water,Stage 1,Ducklett,"[{'Name': 'Feather Dance', 'Description': ""During your next turn, each of this Pok�mon's attacks does 40 more damage (before applying Weakness and Resistance)."", 'Damage': '', 'Energy': {'Colorless': 1}}, {'Name': 'Aqua Ring', 'Description': 'Switch this Pok�mon with 1 of your Benched Pok�mon.', 'Damage': '40', 'Energy': {'Water': 1, 'Colorless': 1}}]",,1
+
+Ducklett,60,Water,Basic,,"[{'Name': 'Water Gun', 'Description': '', 'Damage': '10', 'Energy': {'Water': 1}}]",,1
+
+Alomomola,100,Water,Basic,,"[{'Name': 'Pound', 'Description': '', 'Damage': '20', 'Energy': {'Colorless': 2}}, {'Name': 'Wave Splash', 'Description': '', 'Damage': '60', 'Energy': {'Water': 2, 'Colorless': 2}}]",,2
+
+Blitzle,60,Lightning,Basic,,"[{'Name': 'Stomp', 'Description': 'Flip a coin. If heads, this attack does 10 more damage.', 'Damage': '10+', 'Energy': {'Colorless': 1}}]",,1
+
+Zebstrika,90,Lightning,Stage 1,Blitzle,"[{'Name': 'Stomp', 'Description': 'Flip a coin. If heads, this attack does 20 more damage.', 'Damage': '20+', 'Energy': {'Colorless': 2}}, {'Name': 'Wild Charge', 'Description': 'This Pok�mon does 10 damage to itself.', 'Damage': '70', 'Energy': {'Lightning': 2, 'Colorless': 1}}]",,1
+
+Joltik,40,Lightning,Basic,,"[{'Name': 'Stun Needle', 'Description': 'Flip a coin. If heads, the Defending Pok�mon is now Paralyzed.', 'Damage': '10', 'Energy': {'Lightning': 1}}]",,1
+
+Galvantula,80,Lightning,Stage 1,Joltik,"[{'Name': 'Electroweb', 'Description': ""The Defending Pok�mon can't retreat during your opponent's next turn."", 'Damage': '20', 'Energy': {'Lightning': 1}}, {'Name': 'Leech Life', 'Description': 'Heal from this Pok�mon the same amount of damage you did to the Defending Pok�mon.', 'Damage': '40', 'Energy': {'Colorless': 2}}]",,1
+
+Zekrom,130,Lightning,Basic,,"[{'Name': 'Outrage', 'Description': 'Does 10 more damage for each damage counter on this Pok�mon.', 'Damage': '20+', 'Energy': {'Colorless': 2}}, {'Name': 'Bolt Strike', 'Description': 'This Pok�mon does 40 damage to itself.', 'Damage': '120', 'Energy': {'Lightning': 2, 'Colorless': 1}}]",,2
+
+Munna,70,Psychic,Basic,,"[{'Name': 'Hypnosis', 'Description': 'The Defending Pok�mon is now Asleep.', 'Damage': '', 'Energy': {'Colorless': 1}}, {'Name': 'Dream Eater', 'Description': 'If the Defending Pok�mon is not Asleep, this attack does nothing.', 'Damage': '60', 'Energy': {'Psychic': 2}}]",,2
+
+Musharna,90,Psychic,Stage 1,Munna,"[{'Name': 'Hypnotic Ray', 'Description': 'The Defending Pok�mon is now Asleep.', 'Damage': '20', 'Energy': {'Psychic': 1}}, {'Name': 'Dream Eater', 'Description': 'If the Defending Pok�mon is not Asleep, this attack does nothing.', 'Damage': '90', 'Energy': {'Psychic': 2}}]",,2
+
+Swoobat,80,Psychic,Stage 1,Woobat,"[{'Name': 'Attract', 'Description': ""If the Defending Pok�mon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."", 'Damage': '', 'Energy': {'Colorless': 1}}, {'Name': 'Heart Stamp', 'Description': '', 'Damage': '40', 'Energy': {'Psychic': 1, 'Colorless': 1}}]",,1
+
+Venipede,70,Psychic,Basic,,"[{'Name': 'Ram', 'Description': '', 'Damage': '10', 'Energy': {'Psychic': 1}}, {'Name': 'Rollout', 'Description': '', 'Damage': '30', 'Energy': {'Colorless': 3}}]",,2
+
+Whirlipede,90,Psychic,Stage 1,Venipede,"[{'Name': 'Poison Sting', 'Description': 'The Defending Pok�mon is now Poisoned.', 'Damage': '20', 'Energy': {'Psychic': 1, 'Colorless': 1}}, {'Name': 'Rollout', 'Description': '', 'Damage': '50', 'Energy': {'Psychic': 1, 'Colorless': 2}}]",,2
+
+Woobat,50,Psychic,Basic,,"[{'Name': 'Gust', 'Description': '', 'Damage': '10', 'Energy': {'Colorless': 1}}]",,1
+
+Solosis,30,Psychic,Basic,,"[{'Name': 'Cell Culture', 'Description': 'Search your deck for Solosis and put it into your Bench. Shuffle your deck afterward.', 'Damage': '', 'Energy': {'Psychic': 1}}, {'Name': 'Rollout', 'Description': '', 'Damage': '20', 'Energy': {'Psychic': 1, 'Colorless': 1}}]",,1
+
+Duosion,60,Psychic,Stage 1,Solosis,"[{'Name': 'Recover', 'Description': 'Discard an Energy attached to this Pok�mon and heal all damage from this Pok�mon.', 'Damage': '', 'Energy': {'Colorless': 1}}, {'Name': 'Rollout', 'Description': '', 'Damage': '30', 'Energy': {'Psychic': 1, 'Colorless': 1}}]",,1
+
+Reuniclus,90,Psychic,Stage 2,Duosion,"[{'Name': 'Psywave', 'Description': 'Does 10 more damage for each Energy attached to the Defending Pok�mon.', 'Damage': '30+', 'Energy': {'Psychic': 3}}]","{'Name': 'Damage Swap', 'Description': 'As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pok�mon to another of your Pok�mon.'}",2
+
+Scolipede,150,Psychic,Stage 2,Whirlipede,"[{'Name': 'Steamroller', 'Description': ""This attack's damage isn't affected by Resistance."", 'Damage': '60', 'Energy': {'Colorless': 3}}, {'Name': 'Poison Claws', 'Description': 'The Defending Pok�mon is now Poisoned.', 'Damage': '80', 'Energy': {'Psychic': 2, 'Colorless': 2}}]",,3
+
+Timburr,60,Fighting,Basic,,"[{'Name': 'Pound', 'Description': '', 'Damage': '30', 'Energy': {'Fighting': 2}}]",,1
+
+Gurdurr,80,Fighting,Stage 1,Timburr,"[{'Name': 'Bulk Up', 'Description': ""During your next turn, each of this Pok�mon's attacks does 20 more damage (before applying Weakness and Resistance)."", 'Damage': '20', 'Energy': {'Colorless': 1}}, {'Name': 'Pound', 'Description': '', 'Damage': '60', 'Energy': {'Fighting': 2, 'Colorless': 1}}]",,2
+
+Throh,100,Fighting,Basic,,"[{'Name': 'Circle Throw', 'Description': 'Your opponent switches the Defending Pok�mon with 1 of his or her Benched Pok�mon.', 'Damage': '30', 'Energy': {'Fighting': 1, 'Colorless': 1}}, {'Name': 'Storm Throw', 'Description': ""This attack's damage isn't affected by Resistance."", 'Damage': '80', 'Energy': {'Fighting': 2, 'Colorless': 1}}]",,3
+
+Sawk,90,Fighting,Basic,,"[{'Name': 'Low Sweep', 'Description': '', 'Damage': '20', 'Energy': {'Fighting': 1}}, {'Name': 'Beatdown', 'Description': '', 'Damage': '40', 'Energy': {'Fighting': 2}}]",,1
+
+Krokorok,90,Fighting,Stage 1,Sandile,"[{'Name': 'Torment', 'Description': ""Choose 1 of the Defending Pok�mon's attacks. That Pok�mon can't use that attack during your opponent's next turn."", 'Damage': '10', 'Energy': {'Colorless': 1}}, {'Name': 'Bite', 'Description': '', 'Damage': '50', 'Energy': {'Fighting': 1, 'Colorless': 2}}]",,2
+
+Sandile,70,Fighting,Basic,,"[{'Name': 'Sand Tomb', 'Description': ""The Defending Pok�mon can't retreat during your opponent's next turn."", 'Damage': '10', 'Energy': {'Fighting': 1}}, {'Name': 'Bite', 'Description': '', 'Damage': '30', 'Energy': {'Fighting': 1, 'Colorless': 2}}]",,2
+
+Liepard,80,Darkness,Stage 1,Purrloin,"[{'Name': 'Taunt', 'Description': ""Switch the Defending Pok�mon with 1 of your opponent's Benched Pok�mon."", 'Damage': '', 'Energy': {'Colorless': 1}}, {'Name': 'Sucker Punch', 'Description': 'If this Pok�mon has any Darkness Energy attached to it, this attack does 30 more damage.', 'Damage': '30+', 'Energy': {'Colorless': 2}}]",,1
+
+Purrloin,60,Darkness,Basic,,"[{'Name': 'Scratch', 'Description': '', 'Damage': '10', 'Energy': {'Colorless': 1}}, {'Name': 'Slash', 'Description': '', 'Damage': '20', 'Energy': {'Colorless': 2}}]",,1
+
+Scraggy,60,Darkness,Basic,,"[{'Name': 'Headbutt', 'Description': '', 'Damage': '10', 'Energy': {'Colorless': 1}}]",,1
+
+Krookodile,140,Fighting,Stage 2,Krokorok,"[{'Name': 'Torment', 'Description': ""Choose 1 of the Defending Pok�mon's attacks. That Pok�mon can't use that attack during your opponent's next turn."", 'Damage': '30', 'Energy': {'Colorless': 2}}, {'Name': 'Krookoroll', 'Description': 'If the Defending Pok�mon already has any damage counters on it, this attack does 40 more damage.', 'Damage': '60+', 'Energy': {'Fighting': 2, 'Colorless': 2}}]",,3
+
+Zorua,60,Darkness,Basic,,"[{'Name': 'Lunge', 'Description': 'Flip a coin. If tails, this attack does nothing.', 'Damage': '30', 'Energy': {'Colorless': 2}}]",,1
+
+Scrafty,90,Darkness,Stage 1,Scraggy,"[{'Name': 'Spit Acid', 'Description': 'The Defending Pok�mon is now Burned. Flip a coin. If heads, the Defending Pok�mon is also Paralyzed.', 'Damage': '20', 'Energy': {'Darkness': 1}}, {'Name': 'High Jump Kick', 'Description': '', 'Damage': '70', 'Energy': {'Darkness': 2, 'Colorless': 1}}]",,1
+
+Zoroark,100,Darkness,Stage 1,Zorua,"[{'Name': 'Nasty Plot', 'Description': 'Search your deck for a card and put it into your hand. Shuffle your deck afterward.', 'Damage': '', 'Energy': {'Darkness': 1}}, {'Name': 'Foul Play', 'Description': ""Choose 1 of the Defending Pok�mon's attacks and use it as this attack."", 'Damage': '', 'Energy': {'Colorless': 2}}]",,1
+
+Vullaby,60,Darkness,Basic,,"[{'Name': 'Surprise Attack', 'Description': 'Flip a coin. If tails, this attack does nothing.', 'Damage': '20', 'Energy': {'Darkness': 1}}]",,1
+
+Mandibuzz,90,Darkness,Stage 1,Vullaby,"[{'Name': 'Blindside', 'Description': ""Does 50 damage to 1 of your opponent's Pok�mon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pok�mon.)"", 'Damage': '', 'Energy': {'Darkness': 1}}, {'Name': 'Punishment', 'Description': 'If the Defending Pok�mon is a Stage 2 Pok�mon, this attack does 60 more damage.', 'Damage': '40+', 'Energy': {'Darkness': 1, 'Colorless': 2}}]",,1
+
+Klang,80,Metal,Stage 1,Klink,"[{'Name': 'Bind', 'Description': 'Flip a coin. If heads, the Defending Pok�mon is now Paralyzed.', 'Damage': '10', 'Energy': {'Metal': 1}}, {'Name': 'Gear Grind', 'Description': 'Flip 2 coins. This attack does 60 damage times the number of heads.', 'Damage': '60�', 'Energy': {'Metal': 1, 'Colorless': 2}}]",,2
+
+Klink,60,Metal,Basic,,"[{'Name': 'Bind', 'Description': 'Flip a coin. If heads, the Defending Pok�mon is now Paralyzed.', 'Damage': '10', 'Energy': {'Metal': 1}}]",,2
+
+Klinklang,140,Metal,Stage 2,Klang,"[{'Name': 'Gear Grind', 'Description': 'Flip 2 coins. This attack does 80 damage times the number of heads.', 'Damage': '80�', 'Energy': {'Metal': 1, 'Colorless': 2}}]","{'Name': 'Shift Gear', 'Description': 'As often as you like during your turn (before your attack), you may move a Metal Energy attached to 1 of your Pok�mon to another of your Pok�mon.'}",3
+
+Patrat,60,Colorless,Basic,,"[{'Name': 'Hyper Fang', 'Description': 'Flip a coin. If tails, this attack does nothing.', 'Damage': '30', 'Energy': {'Colorless': 1}}]",,1
+
+Watchog,90,Colorless,Stage 1,Patrat,"[{'Name': 'Confuse Ray', 'Description': 'The Defending Pok�mon is now Confused.', 'Damage': '', 'Energy': {'Colorless': 2}}, {'Name': 'Hyper Fang', 'Description': 'Flip a coin. If tails, this attack does nothing.', 'Damage': '60', 'Energy': {'Colorless': 2}}]",,1
+
+Lillipup,50,Colorless,Basic,,"[{'Name': 'Pickup', 'Description': 'Put an Item card from your discard pile into your hand.', 'Damage': '', 'Energy': {'Colorless': 1}}, {'Name': 'Bite', 'Description': '', 'Damage': '10', 'Energy': {'Colorless': 1}}]",,1
+
+Herdier,80,Colorless,Stage 1,Lillipup,"[{'Name': 'Collect', 'Description': 'Draw 3 cards.', 'Damage': '', 'Energy': {'Colorless': 2}}, {'Name': 'Bite', 'Description': '', 'Damage': '50', 'Energy': {'Colorless': 3}}]",,1
+
+Stoutland,140,Colorless,Stage 2,Herdier,"[{'Name': 'Odor Sleuth', 'Description': 'Flip 3 coins. For each heads, put a card from your discard pile into your hand.', 'Damage': '', 'Energy': {'Colorless': 2}}, {'Name': 'Giga Impact', 'Description': ""This Pok�mon can't attack during your next turn."", 'Damage': '90', 'Energy': {'Colorless': 4}}]",,3
+
+Pidove,50,Colorless,Basic,,"[{'Name': 'Quick Attack', 'Description': 'Flip a coin. If heads, this attack does 10 more damage.', 'Damage': '10+', 'Energy': {'Colorless': 1}}]",,1
+
+Minccino,60,Colorless,Basic,,"[{'Name': 'Tail Slap', 'Description': 'Flip 2 coins. This attack does 10 damage times the number of heads.', 'Damage': '10�', 'Energy': {'Colorless': 1}}]",,1
+
+Audino,80,Colorless,Basic,,"[{'Name': 'Doubleslap', 'Description': 'Flip 2 coins. This attack does 30 damage times the number of heads.', 'Damage': '30�', 'Energy': {'Colorless': 2}}]",,2
+
+Unfezant,120,Colorless,Stage 2,Tranquill,"[{'Name': 'Fly', 'Description': ""Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of attacks, including damage, done to this Pok�mon during your opponent's next turn."", 'Damage': '50', 'Energy': {'Colorless': 2}}, {'Name': 'Cutting Wind', 'Description': '', 'Damage': '70', 'Energy': {'Colorless': 3}}]",,1
+
+Tranquill,70,Colorless,Stage 1,Pidove,"[{'Name': 'Gust', 'Description': '', 'Damage': '20', 'Energy': {'Colorless': 1}}, {'Name': 'Quick Attack', 'Description': 'Flip a coin. If heads, this attack does 30 more damage.', 'Damage': '20+', 'Energy': {'Colorless': 2}}]",,1
+
+Bouffalant,90,Colorless,Basic,,"[{'Name': 'Horn Attack', 'Description': '', 'Damage': '20', 'Energy': {'Colorless': 2}}, {'Name': 'Double Stomp', 'Description': 'Flip 2 coins. This attack does 20 more damage for each heads.', 'Damage': '30+', 'Energy': {'Colorless': 3}}]",,2
+
+Cinccino,90,Colorless,Stage 1,Minccino,"[{'Name': 'Tail Slap', 'Description': 'Flip 2 coins. This attack does 20 damage times the number of heads.', 'Damage': '20�', 'Energy': {'Colorless': 1}}, {'Name': 'Do the Wave', 'Description': 'Does 20 damage times the number of your Benched Pok�mon.', 'Damage': '20�', 'Energy': {'Colorless': 2}}]",,1
+
+Reshiram,130,Fire,Basic,,"[{'Name': 'Outrage', 'Description': 'Does 10 more for each damage counter on this Pok�mon.', 'Damage': '20+', 'Energy': {'Colorless': 2}}, {'Name': 'Blue Flare', 'Description': 'Discard 2 Fire Energy attached to this Pok�mon.', 'Damage': '120', 'Energy': {'Fire': 2, 'Colorless': 1}}]",,2
+
+Pikachu,60,Lightning,Basic,,"[{'Name': 'Energize', 'Description': 'Attach a Lightning Energy from your discard pile to this Pok�mon.', 'Damage': '', 'Energy': {'Lightning': 1}}, {'Name': 'Thunderbolt', 'Description': 'Discard all Energy attached to this Pok�mon.', 'Damage': '80', 'Energy': {'Lightning': 1, 'Colorless': 2}}]",,1
+
+Zekrom,130,Lightning,Basic,,"[{'Name': 'Outrage', 'Description': 'Does 10 more damage for each damage counter on this Pok�mon.', 'Damage': '20+', 'Energy': {'Colorless': 2}}, {'Name': 'Bolt Strike', 'Description': 'This Pok�mon does 40 damage to itself.', 'Damage': '120', 'Energy': {'Lightning': 2, 'Colorless': 1}}]",,2
+
